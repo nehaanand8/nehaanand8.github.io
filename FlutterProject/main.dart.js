@@ -44750,7 +44750,7 @@ j.aN=new G.SF(f,a)
 u=M.aE(e,K.Oa(T.h1(H.e([n,new T.e_(new G.Sw(f),e),m,new T.h_(C.Z,e,e,o,e),M.aE(e,T.nN(e,e,C.aX,!0,e,Q.cH(H.e([k,i,h,Q.cH(e,j,A.aG(e,e,C.ad.i(0,600),e,e,e,e,e,e,e,e,12,e,C.b3,e,e,!0,e,e,e,e,e,e),"Privacy Policy")],[Q.jf]),e,p,e),C.aF,e,1,C.af),e,e,e,e,new V.a_(0,100,0,0),e,e),new T.e_(new G.Sx(f),e)],r),C.aA,C.a9),s,!1),e,e,e,t,e,e,u)
 g=T.kV(C.cc,H.e([u,f.d?M.aE(e,new T.h_(C.Z,e,e,U.ZY(),e),e,e,e,e,e,e,e):M.aE(e,e,e,e,e,e,e,e,e)],r),C.cy)
 u=$.jG()
-t=M.aE(e,e,e,e,S.ij(e,e,e,e,e,X.a_5(C.kA,new L.lV("assets/header.png")),C.a2),400,e,e,100)
+t=M.aE(e,e,e,e,S.ij(e,e,e,e,e,X.a_5(C.kA,new L.lV("assets/header.png")),C.a2),230,e,e,100)
 s=f.k3
 r=H.e([t,M.aE(e,L.bI("One Step Registeration",e,e,e,A.aG(e,e,C.n,e,e,e,e,e,e,e,e,15,e,e,e,e,!0,e,e,e,e,e,e),C.aF),C.kW,e,e,e,e,new V.a_(8,8,8,8),s),g],r)
 return S.XL(C.z,M.Lx(e,B.a_I(new H.cv(r,[H.r(r,0)]).aW(0),!0,!0),u,e),C.m2,e,"SAHYOGI DEMO")},
